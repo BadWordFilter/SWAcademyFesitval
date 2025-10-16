@@ -340,6 +340,7 @@
         332,
         333,
         334,
+<<<<<<< HEAD
         335,
         336,
         337,
@@ -523,6 +524,9 @@
         515,
         516,
         517
+=======
+        335
+>>>>>>> parent of 1e49a6d6 (Import package)
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 0
@@ -1057,10 +1061,31 @@
         261,
         268,
         275,
+<<<<<<< HEAD
         288,
+=======
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+>>>>>>> parent of 1e49a6d6 (Import package)
         295,
         314,
         327,
+<<<<<<< HEAD
         334,
         347,
         348,
@@ -1181,6 +1206,14 @@
         513,
         514,
         515
+=======
+        328,
+        329,
+        330,
+        331,
+        332,
+        333
+>>>>>>> parent of 1e49a6d6 (Import package)
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 6
@@ -31500,6 +31533,7 @@
       "DebugActionIndex": 399
     },
     {
+<<<<<<< HEAD
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
@@ -32472,6 +32506,8 @@
       "DebugActionIndex": 421
     },
     {
+=======
+>>>>>>> parent of 1e49a6d6 (Import package)
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEngine.TestRunner.dll",
       "DisplayName": "Copying UnityEngine.TestRunner.dll",
       "ActionType": "CopyFiles",
@@ -32484,7 +32520,11 @@
       "ToBuildDependencies": [
         4
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 422
+=======
+      "DebugActionIndex": 278
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEngine.TestRunner.pdb",
@@ -32499,7 +32539,11 @@
       "ToBuildDependencies": [
         4
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 423
+=======
+      "DebugActionIndex": 279
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEditor.TestRunner.dll",
@@ -32514,7 +32558,11 @@
       "ToBuildDependencies": [
         112
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 424
+=======
+      "DebugActionIndex": 280
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEditor.TestRunner.pdb",
@@ -32529,7 +32577,11 @@
       "ToBuildDependencies": [
         112
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 425
+=======
+      "DebugActionIndex": 281
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Rider.Editor.dll",
@@ -32544,7 +32596,11 @@
       "ToBuildDependencies": [
         159
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 426
+=======
+      "DebugActionIndex": 282
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Rider.Editor.pdb",
@@ -32559,7 +32615,11 @@
       "ToBuildDependencies": [
         159
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 427
+=======
+      "DebugActionIndex": 283
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VSCode.Editor.dll",
@@ -32574,7 +32634,11 @@
       "ToBuildDependencies": [
         195
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 428
+=======
+      "DebugActionIndex": 284
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VSCode.Editor.pdb",
@@ -32589,7 +32653,11 @@
       "ToBuildDependencies": [
         195
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 429
+=======
+      "DebugActionIndex": 285
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll",
@@ -32604,7 +32672,11 @@
       "ToBuildDependencies": [
         201
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 430
+=======
+      "DebugActionIndex": 286
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb",
@@ -32619,7 +32691,11 @@
       "ToBuildDependencies": [
         201
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 431
+=======
+      "DebugActionIndex": 287
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEngine.UI.dll",
@@ -32634,7 +32710,11 @@
       "ToBuildDependencies": [
         100
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 432
+=======
+      "DebugActionIndex": 288
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEngine.UI.pdb",
@@ -32649,7 +32729,11 @@
       "ToBuildDependencies": [
         100
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 433
+=======
+      "DebugActionIndex": 289
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEditor.UI.dll",
@@ -32664,7 +32748,11 @@
       "ToBuildDependencies": [
         120
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 434
+=======
+      "DebugActionIndex": 290
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEditor.UI.pdb",
@@ -32679,7 +32767,11 @@
       "ToBuildDependencies": [
         120
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 435
+=======
+      "DebugActionIndex": 291
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll",
@@ -32694,7 +32786,11 @@
       "ToBuildDependencies": [
         128
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 436
+=======
+      "DebugActionIndex": 292
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.pdb",
@@ -32709,6 +32805,7 @@
       "ToBuildDependencies": [
         128
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 437
     },
     {
@@ -32770,6 +32867,9 @@
         141
       ],
       "DebugActionIndex": 441
+=======
+      "DebugActionIndex": 293
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll",
@@ -32784,7 +32884,11 @@
       "ToBuildDependencies": [
         147
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 442
+=======
+      "DebugActionIndex": 294
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.pdb",
@@ -32799,7 +32903,11 @@
       "ToBuildDependencies": [
         147
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 443
+=======
+      "DebugActionIndex": 295
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll",
@@ -32814,7 +32922,11 @@
       "ToBuildDependencies": [
         153
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 444
+=======
+      "DebugActionIndex": 296
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.PlasticSCM.Editor.pdb",
@@ -32829,7 +32941,11 @@
       "ToBuildDependencies": [
         153
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 445
+=======
+      "DebugActionIndex": 297
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Settings.Editor.dll",
@@ -32844,7 +32960,11 @@
       "ToBuildDependencies": [
         165
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 446
+=======
+      "DebugActionIndex": 298
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Settings.Editor.pdb",
@@ -32859,7 +32979,11 @@
       "ToBuildDependencies": [
         165
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 447
+=======
+      "DebugActionIndex": 299
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll",
@@ -32874,7 +32998,11 @@
       "ToBuildDependencies": [
         171
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 448
+=======
+      "DebugActionIndex": 300
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.pdb",
@@ -32889,7 +33017,11 @@
       "ToBuildDependencies": [
         171
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 449
+=======
+      "DebugActionIndex": 301
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll",
@@ -32904,7 +33036,11 @@
       "ToBuildDependencies": [
         177
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 450
+=======
+      "DebugActionIndex": 302
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.pdb",
@@ -32919,7 +33055,11 @@
       "ToBuildDependencies": [
         177
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 451
+=======
+      "DebugActionIndex": 303
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TextMeshPro.dll",
@@ -32934,7 +33074,11 @@
       "ToBuildDependencies": [
         183
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 452
+=======
+      "DebugActionIndex": 304
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TextMeshPro.pdb",
@@ -32949,7 +33093,11 @@
       "ToBuildDependencies": [
         183
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 453
+=======
+      "DebugActionIndex": 305
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Timeline.dll",
@@ -32964,7 +33112,11 @@
       "ToBuildDependencies": [
         189
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 454
+=======
+      "DebugActionIndex": 306
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Timeline.pdb",
@@ -32979,7 +33131,11 @@
       "ToBuildDependencies": [
         189
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 455
+=======
+      "DebugActionIndex": 307
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.XR.Management.dll",
@@ -32994,7 +33150,11 @@
       "ToBuildDependencies": [
         207
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 456
+=======
+      "DebugActionIndex": 308
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.XR.Management.pdb",
@@ -33009,6 +33169,7 @@
       "ToBuildDependencies": [
         207
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 457
     },
     {
@@ -33040,6 +33201,9 @@
         213
       ],
       "DebugActionIndex": 459
+=======
+      "DebugActionIndex": 309
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll",
@@ -33054,7 +33218,11 @@
       "ToBuildDependencies": [
         219
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 460
+=======
+      "DebugActionIndex": 310
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb",
@@ -33069,6 +33237,7 @@
       "ToBuildDependencies": [
         219
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 461
     },
     {
@@ -33190,6 +33359,9 @@
         245
       ],
       "DebugActionIndex": 469
+=======
+      "DebugActionIndex": 311
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.PlasticSCM.Editor.Entities.dll",
@@ -33204,7 +33376,11 @@
       "ToBuildDependencies": [
         252
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 470
+=======
+      "DebugActionIndex": 312
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.PlasticSCM.Editor.Entities.pdb",
@@ -33219,7 +33395,11 @@
       "ToBuildDependencies": [
         252
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 471
+=======
+      "DebugActionIndex": 313
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll",
@@ -33234,7 +33414,11 @@
       "ToBuildDependencies": [
         258
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 472
+=======
+      "DebugActionIndex": 314
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.pdb",
@@ -33249,7 +33433,11 @@
       "ToBuildDependencies": [
         258
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 473
+=======
+      "DebugActionIndex": 315
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll",
@@ -33264,7 +33452,11 @@
       "ToBuildDependencies": [
         267
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 474
+=======
+      "DebugActionIndex": 316
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb",
@@ -33279,7 +33471,11 @@
       "ToBuildDependencies": [
         267
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 475
+=======
+      "DebugActionIndex": 317
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Timeline.Editor.dll",
@@ -33294,7 +33490,11 @@
       "ToBuildDependencies": [
         274
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 476
+=======
+      "DebugActionIndex": 318
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Timeline.Editor.pdb",
@@ -33309,6 +33509,7 @@
       "ToBuildDependencies": [
         274
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 477
     },
     {
@@ -33460,6 +33661,9 @@
         307
       ],
       "DebugActionIndex": 487
+=======
+      "DebugActionIndex": 319
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll",
@@ -33474,7 +33678,11 @@
       "ToBuildDependencies": [
         313
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 488
+=======
+      "DebugActionIndex": 320
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.pdb",
@@ -33489,7 +33697,11 @@
       "ToBuildDependencies": [
         313
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 489
+=======
+      "DebugActionIndex": 321
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll",
@@ -33504,7 +33716,11 @@
       "ToBuildDependencies": [
         320
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 490
+=======
+      "DebugActionIndex": 322
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Flow.pdb",
@@ -33519,6 +33735,7 @@
       "ToBuildDependencies": [
         320
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 491
     },
     {
@@ -33610,6 +33827,9 @@
         340
       ],
       "DebugActionIndex": 497
+=======
+      "DebugActionIndex": 323
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll",
@@ -33624,7 +33844,11 @@
       "ToBuildDependencies": [
         346
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 498
+=======
+      "DebugActionIndex": 324
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.pdb",
@@ -33639,7 +33863,11 @@
       "ToBuildDependencies": [
         346
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 499
+=======
+      "DebugActionIndex": 325
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.State.dll",
@@ -33654,7 +33882,11 @@
       "ToBuildDependencies": [
         354
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 500
+=======
+      "DebugActionIndex": 326
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.State.pdb",
@@ -33669,6 +33901,7 @@
       "ToBuildDependencies": [
         354
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 501
     },
     {
@@ -33730,6 +33963,9 @@
         368
       ],
       "DebugActionIndex": 505
+=======
+      "DebugActionIndex": 327
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll",
@@ -33744,7 +33980,11 @@
       "ToBuildDependencies": [
         374
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 506
+=======
+      "DebugActionIndex": 328
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.pdb",
@@ -33759,7 +33999,11 @@
       "ToBuildDependencies": [
         374
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 507
+=======
+      "DebugActionIndex": 329
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll",
@@ -33774,7 +34018,11 @@
       "ToBuildDependencies": [
         382
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 508
+=======
+      "DebugActionIndex": 330
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.pdb",
@@ -33789,6 +34037,7 @@
       "ToBuildDependencies": [
         382
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 509
     },
     {
@@ -33820,6 +34069,9 @@
         388
       ],
       "DebugActionIndex": 511
+=======
+      "DebugActionIndex": 331
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll",
@@ -33834,7 +34086,11 @@
       "ToBuildDependencies": [
         396
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 512
+=======
+      "DebugActionIndex": 332
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.pdb",
@@ -33849,6 +34105,7 @@
       "ToBuildDependencies": [
         396
       ],
+<<<<<<< HEAD
       "DebugActionIndex": 513
     },
     {
@@ -33880,10 +34137,14 @@
         403
       ],
       "DebugActionIndex": 515
+=======
+      "DebugActionIndex": 333
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
+<<<<<<< HEAD
       "Action": "\"C:/UnityEditors/2022.3.62f2/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/UnityEditors/2022.3.62f2/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.InputSystem.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.InputSystem.ForUI.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.InputSystem.TestFramework.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.Mathematics.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.XR.CoreUtils.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.XR.Interaction.Toolkit.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.XR.Management.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.XR.Oculus.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\UnityEngine.SpatialTracking.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\UnityEditors\\2022.3.62f2\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\UnityEditors\\2022.3.62f2\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\UnityEditors\\2022.3.62f2\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\UnityEditors\\2022.3.62f2\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\UnityEditors\\2022.3.62f2\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\" -s=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/UnityEditors/2022.3.62f2/Editor/Data/Tools/netcorerun/netcorerun.exe",
@@ -33893,6 +34154,12 @@
         "Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll",
         "Library/ScriptAssemblies/Unity.InputSystem.TestFramework.dll",
         "Library/ScriptAssemblies/Unity.Mathematics.dll",
+=======
+      "Action": "\"C:/UnityEditors/2022.3.62f2/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/UnityEditors/2022.3.62f2/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\UnityEditors\\2022.3.62f2\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\UnityEditors\\2022.3.62f2\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\UnityEditors\\2022.3.62f2\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\UnityEditors\\2022.3.62f2\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\UnityEditors\\2022.3.62f2\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\ScriptAssemblies\" -s=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"C:\\Projects\\SWAcademyFesitval\\My project\\Works\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Inputs": [
+        "C:/UnityEditors/2022.3.62f2/Editor/Data/Tools/netcorerun/netcorerun.exe",
+        "C:/UnityEditors/2022.3.62f2/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
+>>>>>>> parent of 1e49a6d6 (Import package)
         "Library/ScriptAssemblies/Unity.TextMeshPro.dll",
         "Library/ScriptAssemblies/Unity.Timeline.dll",
         "Library/ScriptAssemblies/Unity.VisualScripting.Core.dll",
@@ -33914,6 +34181,7 @@
         "Library/BuildPlayerData/Editor/TypeDb-All.json"
       ],
       "ToBuildDependencies": [
+<<<<<<< HEAD
         422,
         432,
         438,
@@ -33936,6 +34204,19 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
       "DebugActionIndex": 516
+=======
+        278,
+        288,
+        304,
+        306,
+        308,
+        322,
+        326
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [],
+      "DebugActionIndex": 334
+>>>>>>> parent of 1e49a6d6 (Import package)
     },
     {
       "Annotation": "ScriptAssembliesAndTypeDB",
@@ -33944,10 +34225,17 @@
       "Outputs": [],
       "ToBuildDependencies": [
         6,
+<<<<<<< HEAD
         516
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 517
+=======
+        334
+      ],
+      "OverwriteOutputs": false,
+      "DebugActionIndex": 335
+>>>>>>> parent of 1e49a6d6 (Import package)
     }
   ],
   "FileSignatures": [
@@ -34240,7 +34528,11 @@
         "NamedNodes": {
           "all_tundra_nodes": 0,
           "ScriptAssemblies": 6,
+<<<<<<< HEAD
           "ScriptAssembliesAndTypeDB": 517
+=======
+          "ScriptAssembliesAndTypeDB": 335
+>>>>>>> parent of 1e49a6d6 (Import package)
         }
 ,  "DefaultNodes": [
     0
